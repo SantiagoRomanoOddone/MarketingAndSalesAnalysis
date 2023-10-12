@@ -146,4 +146,4 @@ For the analysis, it was assumed that customers choose the service that provides
 
 As seen in the graph, competitor Y has an estimated 60% market share. This indicates that, for the respondents in general, the profile offered by competitor Y would generate more utility than the profile of competitor X, and therefore, they would tend to choose it.
 
-THE END -- THANKS IN ADVANCE! 
+**THE END -- THANKS IN ADVANCE! **
